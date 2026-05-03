@@ -154,7 +154,9 @@ This project is open source. See LICENSE file for details.
 
 ##  Author
 
-Created as part of the Driver Safety Project
+**Ramalingam S**
+Computer Science & Engineering Strudent at Rajalakshmi Engineering College
+Machine Learning Engineer | Full Stack Developer
 
 ##  Contributing
 
